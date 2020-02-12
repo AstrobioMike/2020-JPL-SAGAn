@@ -1,6 +1,0 @@
-TREE_COLORS
-SEPARATOR TAB
-DATA
-
-DSM-105190-spadescontigs	label	#0000ff	bold
-DSM-105190-spadescontigs	branch	#0000ff	normal	1.5

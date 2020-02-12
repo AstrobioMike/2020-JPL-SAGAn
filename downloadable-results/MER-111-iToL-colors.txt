@@ -1,6 +1,0 @@
-TREE_COLORS
-SEPARATOR TAB
-DATA
-
-MER-111-spadescontigs	label	#0000ff	bold
-MER-111-spadescontigs	branch	#0000ff	normal	1.5
